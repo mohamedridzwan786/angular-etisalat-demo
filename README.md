@@ -1,5 +1,3 @@
-# Angular Etisalat Demo
-
 # Angular Etisalat Demo Project with Reqres API Integration
 
 Overview
@@ -13,9 +11,9 @@ This project is an Angular-based application that integrates with the https://re
 -  Material Design: Incorporates Angular Material components for a modern UI.
 
 # Tech Stack
-Angular: Frontend framework used to build the UI.
-Angular Material: Used for implementing material design components like tables, buttons, and pagination controls.
-Reqres API: Mock API for testing HTTP requests.
+- Angular: Frontend framework used to build the UI.
+- Angular Material: Used for implementing material design components like cards, buttons, etc..
+- Reqres API: Mock API for testing HTTP requests.
 
 # Setup and Installation
 
