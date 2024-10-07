@@ -15,6 +15,11 @@ This project is an Angular-based application that integrates with the https://re
 - Angular Material: Used for implementing material design components like cards, buttons, etc..
 - Reqres API: Mock API for testing HTTP requests.
 
+# Demo Credentials
+
+- "email": eve.holt@reqres.in
+- "password": cityslicka
+
 # Setup and Installation
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.1.
