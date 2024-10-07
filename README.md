@@ -20,7 +20,7 @@ This project is an Angular-based application that integrates with the https://re
 - "email": eve.holt@reqres.in
 - "password": cityslicka
 
-# Setup and Installation
+# Setup and Installation.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.1.
 
