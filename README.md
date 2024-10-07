@@ -1,6 +1,32 @@
-# Authapp
+# Angular Etisalat Demo Project with Reqres API Integration
+
+# Overview
+This project is an Angular-based application that integrates with the https://reqres.in API to manage user data and authentication. The application demonstrates functionalities such as user login, sign-up, and data management with a clean UI based on Angular Material components.
+
+# It includes features like:
+
+-  Login and Sign-Up: Authenticate users using the Reqres API.
+-  User Data Grid: Displays user data (e.g., name, email, avatar) fetched from Reqres API.
+-  Toast Notifications: Provide real-time feedback to users using toast notifications for actions like login, sign-up, data updates, and deletions.
+-  Material Design: Incorporates Angular Material components for a modern UI.
+
+# Tech Stack
+- Angular: Frontend framework used to build the UI.
+- Angular Material: Used for implementing material design components like cards, buttons, etc..
+- Reqres API: Mock API for testing HTTP requests.
+
+# Demo Credentials
+
+- "email": eve.holt@reqres.in
+- "password": cityslicka
+
+# Setup and Installation
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.1.
+
+- Clone this repository.
+- npm install
+- ng serve
 
 ## Development server
 
