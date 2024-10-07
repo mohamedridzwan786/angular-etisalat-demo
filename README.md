@@ -1,6 +1,6 @@
 # Angular Etisalat Demo Project with Reqres API Integration
 
-#Overview
+# Overview
 This project is an Angular-based application that integrates with the https://reqres.in API to manage user data and authentication. The application demonstrates functionalities such as user login, sign-up, and data management with a clean UI based on Angular Material components.
 
 # It includes features like:
