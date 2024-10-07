@@ -1,0 +1,26 @@
+.register-background {
+    background-image: url('https://media.licdn.com/dms/image/v2/D4D05AQGLGV36H79Big/videocover-low/videocover-low/0/1704212456831?e=2147483647&v=beta&t=8tpbARsYF88-pgRugQ7_fIdf9KeX9hLlcmYNyplbyGY');
+    background-size: cover; /* Cover the entire background */
+    background-position: center; /* Center the background image */
+    min-height: 100vh; /* Full viewport height */
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+}
+
+.register-card {
+    opacity: 0.9; /* Slightly transparent card for better visibility over background */
+    max-width: 400px; /* Limit card width */
+    width: 100%; /* Responsive width */
+}
+
+.header-content {
+    display: flex; /* Use flexbox for alignment */
+    align-items: center; /* Center vertically */
+    justify-content: center; /* Center horizontally */
+}
+
+.logo {
+    height: 50px; /* Set logo height */
+    margin-right: 10px; /* Space between logo and title */
+}

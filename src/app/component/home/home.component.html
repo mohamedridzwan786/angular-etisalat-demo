@@ -1,0 +1,12 @@
+<div class="container">
+    <h1>Wecome To Etisalat Consumer Portal</h1>
+    <div class="grid">
+      <!-- Loop through each user dynamically -->
+      <div class="grid-item" *ngFor="let user of users">
+        <img [src]="user.avatar" alt="{{ user.first_name }}" class="avatar" />
+        <h2>{{ user.first_name }}</h2>
+        <p>{{ user.email }}</p>
+      </div>
+    </div>
+  </div>
+  

@@ -1,0 +1,26 @@
+.container {
+    padding: 20px;
+  }
+  
+  .grid {
+    display: flex;             /* Use flexbox for horizontal layout */
+    flex-wrap: nowrap;          /* Prevent items from wrapping to the next line */
+    overflow-x: auto;           /* Add horizontal scroll if necessary */
+    gap: 20px;                  /* Add space between grid items */
+  }
+  
+  .grid-item {
+    flex: 0 0 auto;             /* Prevent items from shrinking */
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+    min-width: 150px;           /* Set a minimum width for each item */
+  }
+  
+  .grid-item img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+  }
+  
